@@ -1,9 +1,24 @@
-body {
-    text-align: center;
-    background-color: deepskyblue;
-}
 
-img {
-    height: 250px;
-    width: 250px;
-}
+
+
+	body {
+	  text-align: center;
+	  background-color: dodgerblue;
+	}
+
+	div {
+	  margin-top: 10px;
+	}
+
+	.image-section {
+	  display: flex;
+	  justify-content: center;
+	}
+
+	.section-style {
+	  margin:25px;
+	  }
+img{
+  width:300px;
+  height:300px;
+}s
